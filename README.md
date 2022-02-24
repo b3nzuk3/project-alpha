@@ -1,6 +1,6 @@
 # Alpha
 #### this site is about the experience, Feb-24-2022
-#### By **{List of contributors}**
+#### By b3nzuk3
 ## Description
 This application or web app is a story telling one that takes its user to another dimension.
 ## Setup/Installation Requirements
@@ -13,5 +13,4 @@ HTML 5 and CSS. All yoou see was accomplished by these two simple yet releable l
 ## Support and contact details
 I've linked any and all means of communications at the contact me section right below the page
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) 2022 **{List of contributors or company name}**
+Copyright (c) 2022 
