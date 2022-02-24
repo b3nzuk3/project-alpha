@@ -1,8 +1,89 @@
-h1{
-
+body {
+  margin: auto;
+  background-color: #DFEEDE;
+  text-align: center;
 }
 
-p{
+h1 {
+  margin: auto;
+  color: #D82148;
+  font-family: 'Noto Serif Display', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 5rem;
+  letter-spacing: 1px;
+}
 
-  
+p {
+  padding-left: 20px;
+  font-family: 'Shizuru', cursive;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.inosuke {
+  display: block;
+  position: inherit;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  padding-top: 30px;
+}
+
+span {
+  font-family: 'Noto Serif Display', serif;
+  font-style: italic;
+  color: #D82148;
+}
+
+.had {
+  background-color: #121212;
+  padding: 10px 0 20px;
+}
+
+.sidebar {
+  float: left;
+  margin-left: 10px;
+}
+
+.p1 {
+  margin: 30px auto 30px;
+  padding-bottom: 25px;
+  font-family: 'Shizuru', cursive;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.contact-me {
+  background-color: #D82148;
+  margin: auto;
+  padding: 3px 0 20px;
+}
+
+.icon {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.contact-me h3 {
+  font-family: 'Noto Serif Display', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.beast {
+  font-family: 'Noto Serif Display', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+
 }
