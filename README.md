@@ -1,5 +1,5 @@
 # Alpha
-#### this site is about the experience, Feb-24-2022
+#### This site is about the experience, Feb-24-2022
 #### By b3nzuk3
 ## Description
 This application or web app is a story telling one that takes its user to another dimension.
